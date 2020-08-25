@@ -1,0 +1,26 @@
+{
+  "name": "spam.world",
+  "version": "1.0.0",
+  "description": "Website + domain title, 2015. Ad space for sale.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acjbizar/spam.world.git"
+  },
+  "keywords": [
+    "ads"
+  ],
+  "author": "ACJ",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/acjbizar/spam.world/issues"
+  },
+  "homepage": "https://github.com/acjbizar/spam.world#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.1.0"
+  }
+}
